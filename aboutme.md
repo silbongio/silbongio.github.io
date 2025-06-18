@@ -3,7 +3,7 @@ layout: page
 title: "About me"
 ---
 
-I was born and raised in Buenos Aires, Argentina. I completed my undergraduate degree at the Universidad de Buenos Aires (Facultad de Filosofía y Letras), where I studied Letras. I showed up my very first day ready to study literature, but had one class in Linguistics and the rest is history.
+<a class="style4">I was born and raised in Buenos Aires, Argentina. I completed my undergraduate degree at the </a><a class="style4" style="color: #0000FF" href="http://www.filo.uba.ar" target="_blank">Universidad de Buenos Aires (Facultad de Filosofía y Letras)</a><a class="style4">, where I studied <i>Letras</i>. I showed up my very first day ready to study literature, but had one class in Linguistics and the rest is history.</a>  
 
 I earned a dual-PhD in Linguistics and Hispanic Linguistics at Indiana University, under the supervision of Prof. Kenneth de Jong and Prof. Erik W. Willis. My main area of research is experimental phonology: I study the phonetic underpinnings of phonological variation, with a focus on Spanish. I have also published work in sociolinguistics and second language acquisition.
 
