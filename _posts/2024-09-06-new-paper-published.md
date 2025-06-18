@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New paper published in Studies in Hispanic and Lusophone Linguistics"
+title: "New Paper Published in Studies in Hispanic and Lusophone Linguistics"
 ---
 
 My new paper is out!
