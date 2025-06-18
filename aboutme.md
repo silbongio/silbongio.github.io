@@ -3,8 +3,18 @@ layout: page
 title: "About me"
 ---
 
-I was born and raised in Buenos Aires, Argentina. I completed my undergraduate degree at the Universidad de Buenos Aires (Facultad de Filosofía y Letras), where I studied Letras. I showed up my very first day ready to study literature, but had one class in Linguistics and the rest is history.
+<section>
 
-I earned a dual-PhD in Linguistics and Hispanic Linguistics at Indiana University, under the supervision of Prof. Kenneth de Jong and Prof. Erik W. Willis. My main area of research is experimental phonology: I study the phonetic underpinnings of phonological variation, with a focus on Spanish. I have also published work in sociolinguistics and second language acquisition.
+    <p class="ex">
+      <a class="style4">I was born and raised in Buenos Aires, Argentina. I completed my undergraduate degree at the </a><a class="style4" style="color: #0000FF" href="http://www.filo.uba.ar" target="_blank">Universidad de Buenos Aires (Facultad de Filosofía y Letras)</a><a class="style4">, where I studied <i>Letras</i>. I showed up my very first day ready to study literature, but had one class in Linguistics and the rest is history.</a>  
+    </p>
 
-I am currently Associate Professor of Spanish, in the Department of Romance and Classical Studies at Michigan State University. I am also affiliated to the Phonetics and Phonology and the Sociolinguistics Labs in the Linguistics program, the Second Language Studies program, and the Center of Latin American Studies. So many links! But now you know: cool people all around me!
+    <p class="ex">
+      <a class="style4">I earned a dual-PhD in </a> <a class="style4" style="color: #0000FF" href="http://www.indiana.edu/~lingdept/" target="_blank">Linguistics </a> <a class="style4">and </a> <a class="style4" style="color: #0000FF" href="http://www.indiana.edu/~spanport/" target="_blank">Hispanic Linguistics</a> <a class="style4">at Indiana University,</a> <a class="style4"> under the supervision of Prof. </a> <a class="style4" style="color: #0000FF" href="http://cl.indiana.edu/~kdejong/" target="_blank">Kenneth de Jong </a> <a class="style4">and </a> <a class="style4">Prof. </a> <a class="style4" style="color: #0000FF" href="https://indiana.academia.edu/ErikWillis" target="_blank">Erik W. Willis</a>. <a class="style4"> My main area of research is experimental phonology: I study the phonetic underpinnings of phonological variation, with a focus on Spanish. I have also published work in sociolinguistics and second language acquisition.</a> 
+    </p>
+
+    <p class="ex">
+      <a class="style4">I am currently Associate Professor of Spanish, in the </a><a class="style4" style="color: #0000FF" href="http://www.rcs.msu.edu" target="_blank"> Department of Romance and Classical Studies at Michigan State University</a><a class="style4">. I am also affiliated to the <a class="style4" style="color: #0000FF" href="http://msuphongroup.weebly.com" target="_blank">Phonetics and Phonology</a> <a class="style4">and the </a><a class="style4" style="color: #0000FF" href="http://sociolab.wagnersu.msu.domains" target="_blank">Sociolinguistics</a><a class="style4"> Labs in the Linguistics program, the </a><a class="style4" style="color: #0000FF" href="http://sls.msu.edu" target="_blank">Second Language Studies program</a><a class="style4">, and the </a><a class="style4" style="color: #0000FF" href="http://latinamerica.isp.msu.edu" target="_blank">Center of Latin American Studies.</a><a class="style4"> So many links! But now you know: cool people all around me!</a> 
+    </p>
+
+</section>
