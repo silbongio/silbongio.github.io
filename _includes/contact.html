@@ -1,15 +1,15 @@
 <div class="row g-5 mb-5">
   <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Contact</h3>
     {% for contact in site.data.settings.contacts %}
     <div class="row g-5 mb-5">
       <div class="col-md-6">
-        <p class="ex"><a class="style5"><strong>MAILING ADDRESS</strong></a></p>
         <p>{{ contact.department }}</p>
         <p>{{ contact.institution_address }}</p>
         <p>{{ contact.institution_citystate }}</p>
         <p>{{ contact.institution }}</p>
-        <p><strong>Email:</strong>strong> {{ contact.email }}</p>
-        <p><strong>Office:</strong>strong>{{ contact.office }}</p>
+        <p><strong>Email:</strong> {{ contact.email }}</p>
+        <p><strong>Office:</strong>{{ contact.office }}</p>
       </div>
       <div class="col-md-6">
         <img src="{{ site.github.url }}/{{ contact.image }}" alt="Contact" width="100%">
