@@ -44,8 +44,6 @@ title: "Second language phonology"
 
 [Perceptual Assimilation Model -L2](/courses/L2phono/PAML2.pdf)
 
-[Lecture on /b d g/](/courses/SPN330/OclusivasSonoras.pdf)
-
 <br>
 
 ###### Sample Assignments
