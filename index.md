@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-Hello! Welcome to my website. 
+Hello! You’ve landed on my website and yes, that <i>is</i> me as a can-can dancer. We all need a little more dance in our lives.
 
 I am Associate Professor of Spanish in the Department of Romance and Classical Studies at Michigan State University. 
 
