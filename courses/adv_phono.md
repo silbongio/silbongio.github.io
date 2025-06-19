@@ -12,7 +12,7 @@ title: "Sounds of Spanish"
 
 <p>Upon completion of this course, students will be able to:
 <ul>
-  <li>Explain key concepts in phonetics and phonology as they relate to Spanish/li>
+  <li>Explain key concepts in phonetics and phonology as they relate to Spanish</li>
   <li>Analyze patterns of phonetic and phonological variation across Spanish dialects</li>
   <li>Evaluate and improve their own Spanish pronunciation using linguistic tools and concepts</li>
 </ul>
@@ -29,9 +29,7 @@ title: "Sounds of Spanish"
   <li>Identify and compare key dialectal differences in the Spanish sound system.</li>
   <li>Transcribe Spanish speech using appropriate phonetic notation (IPA).</li>
   <li>Assess and improve their own Spanish pronunciation using phonetic and phonological insights.</li>
-  <li>Synthesize course concepts in written and oral assignments, including a critical review of scholarly work.</li>
-</ul>
-</p>
+  <li>Synthesize course concepts in written and oral assignments, including a critical review of scholarly work.</li></ul></p>
 <br>
 
 ##### Lecture Notes
