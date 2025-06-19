@@ -14,7 +14,6 @@ social:
 - {icon: 'github', link: 'https://github.com/silbongio'}
 - {icon: 'twitter', link: 'https://twitter.com/silbongio'}
 - {icon: 'orcid', link: 'https://orcid.org/0000-0002-5085-3488'}
-<!-- - {icon: 'bluesky', link: 'https://twitter.com/silbongio'} -->
 
 contacts:
 - {name: 'Silvina Bongiovanni', title: 'Associate Professor', department: 'Romance and Classical Studies', institution: 'Michigan State University', institution_address: '619 Red Cedar Road', institution_citystate: 'East Lansing, MI 48823', email: 'sbongio AT msu DOT edu', office: 'Wells Hall 369', image: 'assets/img/contact.jpg'}
