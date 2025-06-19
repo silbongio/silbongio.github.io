@@ -6,9 +6,9 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Courses</h3>
-    {% for course in site.data.settings.courses %}
-      <p><a href="{{ site.github.url }}/courses/{{ course.url}}">{{ course.name }}</a></p>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Undergraduate Courses</h3>
+    {% for course_undergraduate in site.data.settings.courses_undergraduate %}
+      <p><a href="{{ site.github.url }}/courses/{{ course.url}}">{{ course_undergraduate.name }}</a></p>
     {% endfor %}
   </div>
 </div>
