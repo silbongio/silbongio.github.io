@@ -2,11 +2,18 @@
 layout: default
 ---
 
-{{ content }}
+<div class="row g-5 mb-5">
+  <div>
+    <h5 class="fw-bold border-bottom pb-3 mb-5">Teaching</h5>
+{{ content }}    
+  </div>
+</div>
+
+
 
 <div class="row g-5 mb-5">
   <div>
-    <h5 class="fw-bold border-bottom pb-3 mb-5">Undergraduate Courses</h5>
+    <h6 class="fw-bold border-bottom pb-3 mb-5">Undergraduate Courses</h6>
     {% for course_undergraduate in site.data.settings.courses_undergraduate %}
       <p><a href="{{ site.github.url }}/courses/{{ course.url}}">{{ course_undergraduate.name }}</a></p>
     {% endfor %}
@@ -15,7 +22,7 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div>
-    <h5 class="fw-bold border-bottom pb-3 mb-5">Graduate Courses</h5>
+    <h6 class="fw-bold border-bottom pb-3 mb-5">Graduate Courses</h6>
     {% for course_graduate in site.data.settings.courses_graduate %}
       <p><a href="{{ site.github.url }}/courses/{{ course.url}}">{{ course_graduate.name }}</a></p>
     {% endfor %}
