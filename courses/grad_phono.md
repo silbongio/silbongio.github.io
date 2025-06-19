@@ -36,6 +36,7 @@ title: "Spanish phonetics and phonology"
 #### Sample lecture notes
 
 [Introductory lecture to OT](/courses/grad_phono/OT.pdf)
+
 <br>
 
 #### Sample assignments
