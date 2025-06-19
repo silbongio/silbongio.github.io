@@ -1,34 +1,36 @@
 ---
 layout: page
-title: "Stellar Structures"
+title: "Structure of Spanish"
 ---
 
-#### Course Information
+##### Course description
 
-[Course Outline](/courses/stellar-structures/Sample_Course_Outline.pdf)
+<p>This course presents an overview of grammatical structures of Spanish. It is intended to introduce students to linguistic descriptions of Spanish and guide them as they develop metalinguistic knowledge of Spanish. Students will be introduced to core linguistic concepts and analytical tools to examine word and sentence structure.</p>
+<br>
 
-#### Lecture Notes
+##### Learning outcomes
 
-[Lecture 1](/courses/stellar-structures/Sample_Lecture_Notes.pdf)
+<p>By the end of this course, students will:
+  <ul>
+    <li>demonstrate explicit knowledge of Spanish grammar,</li>
+    <li>demonstrate the ability to analyze Spanish in linguistic terms,</li>
+    <li>be able to apply this knowledge to improve their own production (written or oral) of Spanish.</li>
+</ul></p>
+<br>
 
-[Lecture 2](/courses/stellar-structures/Sample_Lecture_Notes.pdf)
+##### Course structure
 
-[Lecture 3](/courses/stellar-structures/Sample_Lecture_Notes.pdf)
+<p>This course will be taught face-to-face. Class materials are available online, so you are required to have a reliable internet connection and be able to access the internet on a regular basis. There is no hybrid option for this course. See below for attendance and participation policies.</p>
 
-#### Homework
+<p>This class will take an adapted format of a “flipped classroom”. That is, students will complete work at home <strong>before</strong> class. Class time will be reserved for putting into practice the studied content. Therefore, it is essential that students do the required work at home.</p>
+<br>
 
-[Homework 1](/courses/stellar-structures/Sample_Lecture_Notes.pdf)
-
-[Homework 2](/courses/stellar-structures/Sample_Lecture_Notes.pdf)
-
-[Homework 3](/courses/stellar-structures/Sample_Lecture_Notes.pdf)
-
-#### Midterms
+#### Sample lecture notes
 
 [Midterm 1](/courses/stellar-structures/Sample_Midterm.pdf)
 
 [Midterm 2](/courses/stellar-structures/Sample_Midterm.pdf)
 
-#### Exams
+#### Sample assignments
 
 [Exam 1](/courses/stellar-structures/Sample_Exam.pdf)
