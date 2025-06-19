@@ -2,7 +2,6 @@ menu:
 - {name: 'about me', url: '/aboutme'}
 - {name: 'research', url: '/publications'}
 - {name: 'teaching', url: '/courses'}
-- {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
 courses:
