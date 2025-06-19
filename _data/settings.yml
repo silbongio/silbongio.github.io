@@ -2,7 +2,7 @@ menu:
 - {name: 'about me', url: '/aboutme'}
 - {name: 'research', url: '/publications'}
 - {name: 'teaching', url: '/courses'}
-- {name: 'links', url: '/links'}
+- {name: 'resources', url: '/resources'}
 - {name: 'contact', url: '/contact'}
 
 courses_undergraduate:
