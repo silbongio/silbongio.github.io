@@ -4,10 +4,14 @@ menu:
 - {name: 'teaching', url: '/courses'}
 - {name: 'contact', url: '/contact'}
 
-courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+courses_undergraduate:
+- {name: 'Spanish phonetics and pronunciation', url: 'vector-calculus'}
+- {name: 'Sounds of Spanish', url: 'quantum-mechanics'}
+- {name: 'Structure of Spanish', url: 'stellar-structures'}
+
+courses_graduate:
+- {name: 'Spanish phonetics and phonology', url: 'vector-calculus'}
+- {name: 'Second language phonology', url: 'quantum-mechanics'}
 
 social:
 - {icon: 'github', link: 'https://github.com/silbongio'}
