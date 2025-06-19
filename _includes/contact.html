@@ -4,13 +4,13 @@
     {% for contact in site.data.settings.contacts %}
     <div class="row g-5 mb-5">
       <div class="col-md-6">
-        <p style="line-height: 75%; margin-bottom:.4em">{{ contact.department }}</p>
-        <p style="line-height: 75%; margin-bottom:.4em">{{ contact.institution_address }}</p>
-        <p style="line-height: 75%; margin-bottom:.4em">{{ contact.institution_citystate }}</p>
-        <p style="margin-bottom: 5cm;>{{ contact.institution }}</p>
+        <p style="line-height: 75%;">{{ contact.department }}</p>
+        <p style="line-height: 75%;">{{ contact.institution_address }}</p>
+        <p style="line-height: 75%;">{{ contact.institution_citystate }}</p>
+        <p style="margin-bottom: 2cm;>{{ contact.institution }}</p>
         
         <p><strong>Email:</strong> {{ contact.email }}</p>
-        <p></p>
+        
         <p><strong>Office:</strong>{{ contact.office }}</p>
       </div>
       <div class="col-md-6">
