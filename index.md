@@ -7,5 +7,4 @@ Hello! You’ve landed on my website and yes, that <i>is</i> me as a can-can dan
 
 I am Associate Professor of Spanish in the Department of Romance and Classical Studies at Michigan State University. 
 
-My research sits at the intersection of Hispanic Linguistics, phonetics and phonology, and sociolinguistics. I’m especially interested in how and why pronunciation varies —what these differences reveal about the structure of language, and how they contribute to patterns of variation and change. Much of my work focuses on Spanish, whose wide geographic distribution and extensive dialectal diversity make it an ideal language for exploring these questions. I also conduct research on second language phonology, with particular interest in how learners’ production and perception inform both theory and pedagogy.
-
+My research lies at the intersection of Hispanic Linguistics, phonetics and phonology, and sociolinguistics. I focus on variation in pronunciation—what it reveals about language structure and how it drives patterns of variation and change. Spanish, with its broad geographic distribution and dialectal diversity, is central to my work. I also study second language phonology, especially how learner production and perception inform theory and pedagogy.
