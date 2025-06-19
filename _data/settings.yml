@@ -2,8 +2,8 @@ menu:
 - {name: 'about me', url: '/aboutme'}
 - {name: 'research', url: '/publications'}
 - {name: 'teaching', url: '/courses'}
-- {name: 'contact', url: '/contact'}
 - {name: 'links', url: '/links'}
+- {name: 'contact', url: '/contact'}
 
 courses_undergraduate:
 - {name: 'Spanish phonetics and pronunciation', url: '/SPN330'}
