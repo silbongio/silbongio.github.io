@@ -5,9 +5,9 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 courses_undergraduate:
-- {name: 'Spanish phonetics and pronunciation', url: 'vector-calculus'}
-- {name: 'Sounds of Spanish', url: 'quantum-mechanics'}
-- {name: 'Structure of Spanish', url: 'stellar-structures'}
+- {name: 'Spanish phonetics and pronunciation', url: 'SPN330'}
+- {name: 'Sounds of Spanish', url: 'adv_phono'}
+- {name: 'Structure of Spanish', url: 'SPN440'}
 
 courses_graduate:
 - {name: 'Spanish phonetics and phonology', url: 'vector-calculus'}
