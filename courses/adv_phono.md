@@ -32,19 +32,8 @@ title: "Sounds of Spanish"
   <li>Synthesize course concepts in written and oral assignments, including a critical review of scholarly work.</li></ul></p>
 <br>
 
-##### Lecture Notes
-
-[Lecture 1](/courses/vector-calculus/Sample_Lecture_Notes.pdf)
-
-[Lecture 2](/courses/vector-calculus/Sample_Lecture_Notes.pdf)
-
-[Lecture 3](/courses/vector-calculus/Sample_Lecture_Notes.pdf)
-
-<br>
-
 ##### Sample materials
 
 [FAQ for course recruitment](/courses/adv_phono/FAQ.pdf)
 
-[Midterm 2](/courses/vector-calculus/Sample_Midterm.pdf)
 
