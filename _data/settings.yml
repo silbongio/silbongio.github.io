@@ -6,7 +6,7 @@ menu:
 - {name: 'links', url: '/links'}
 
 courses_undergraduate:
-- {name: 'Spanish phonetics and pronunciation', url: '/courses/SPN330'}
+- {name: 'Spanish phonetics and pronunciation', url: '/SPN330'}
 - {name: 'Sounds of Spanish', url: 'adv_phono'}
 - {name: 'Structure of Spanish', url: 'SPN440'}
 
