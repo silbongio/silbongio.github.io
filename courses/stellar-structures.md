@@ -20,9 +20,7 @@ title: "Structure of Spanish"
 
 ##### Course structure
 
-<p>This course will be taught face-to-face. Class materials are available online, so you are required to have a reliable internet connection and be able to access the internet on a regular basis. There is no hybrid option for this course. See below for attendance and participation policies.</p>
-
-<p>This class will take an adapted format of a “flipped classroom”. That is, students will complete work at home <strong>before</strong> class. Class time will be reserved for putting into practice the studied content. Therefore, it is essential that students do the required work at home.</p>
+<p>This course is taught face-to-face. Class materials are available online. We take an adapted format of a “flipped classroom”. That is, students complete work at home <strong>before</strong> class. Class time is reserved for putting into practice the studied content. Therefore, it is essential that students do the required work at home.</p>
 <br>
 
 #### Sample lecture notes
