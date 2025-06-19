@@ -4,14 +4,14 @@
     {% for contact in site.data.settings.contacts %}
     <div class="row g-5 mb-5">
       <div class="col-md-6">
-        <p style="line-height:.075">{{ contact.department }}</p>
-        <p style="line-height:.075">{{ contact.institution_address }}</p>
-        <p style="line-height:.075">{{ contact.institution_citystate }}</p>
-        <p style="line-height:.075">{{ contact.institution }}</p>
+        <p style="line-height:.05">{{ contact.department }}</p>
+        <p style="line-height:.05">{{ contact.institution_address }}</p>
+        <p style="line-height:.05">{{ contact.institution_citystate }}</p>
+        <p style="line-height:.05">{{ contact.institution }}</p>
         
-        <p style="line-height:1"><strong>Email:</strong> {{ contact.email }}</p>
+        <p style="line-height:2"><strong>Email:</strong> {{ contact.email }}</p>
         
-        <p style="line-height:1"><strong>Office:</strong>{{ contact.office }}</p>
+        <p style="line-height:2"><strong>Office:</strong>{{ contact.office }}</p>
       </div>
       <div class="col-md-6">
         <img src="{{ site.github.url }}/{{ contact.image }}" alt="Contact" width="100%">
