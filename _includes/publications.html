@@ -7,7 +7,7 @@
       {% endfor %}
     {% else %}
 
-    Please email me if you'd like access to any of the articles listed here.
+    <p style="line-height:3"><i>Please email me if you'd like access to any of the articles listed here.</i><p>
       
       {% for item in site.data.publications.index %} 
         <p>{{ item.author }}, ({{ item.year }}). {{ item.name }}. <i>{{ item.journal }}</i>. <a href="{{ item.url }}">link</a></p>
