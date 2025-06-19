@@ -16,9 +16,7 @@ courses_graduate:
 
 social:
 - {icon: 'github', link: 'https://github.com/silbongio'}
-- {icon: 'twitter', link: 'https://twitter.com/silbongio'}
 - {icon: 'orcid', link: 'https://orcid.org/0000-0002-5085-3488'}
-- {icon: 'envelope', link: 'mailto:mailto:sbongio@msu.edu'}
 
 
 contacts:
