@@ -11,8 +11,8 @@ courses_undergraduate:
 - {name: 'Structure of Spanish', url: 'SPN440'}
 
 courses_graduate:
-- {name: 'Spanish phonetics and phonology', url: 'vector-calculus'}
-- {name: 'Second language phonology', url: 'quantum-mechanics'}
+- {name: 'Spanish phonetics and phonology', url: 'grad_phono'}
+- {name: 'Second language phonology', url: 'L2phono'}
 
 social:
 - {icon: 'github', link: 'https://github.com/silbongio'}
