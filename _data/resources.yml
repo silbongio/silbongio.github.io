@@ -11,7 +11,7 @@ teaching_resources:
 
 recommend_resources:
 - {name: 'A practical introduction to Git and GitHub', url: 'https://github.com/jvcasillas/github_workshop/', descrip: 'Workshop on Git and GitHub for version control by J. Casillas'}
-- {name: 'R for linguists', url: 'http://eleanorchodroff.com/r-for-linguists/', descrip: 'Tutorial on R for Linguists by E. Chodroffs'}
+- {name: 'R for linguists', url: 'http://eleanorchodroff.com/r-for-linguists/', descrip: 'Tutorial on R for Linguists by E. Chodroff'}
 - {name: 'Introduction to Data Analysis with R', url: 'https://betsysneller.github.io/RCourse/RCourse.html', descrip: 'Mini-R course aimed at people who are new to programming by B. Sneller'}
 
 other_resources:
