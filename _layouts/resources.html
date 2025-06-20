@@ -10,16 +10,16 @@ layout: default
 </div>
 
 <div class="row g-5 mb-5">
-  <div class="col-md-6">
+  <div class="col-md-4">
     <h6 class="fw-bold border-bottom pb-3 mb-1">Go-To Research Tools</h6>
    {% for item in site.data.resources.research_resources %}
       <p><a href="{{ item.url }}">{{ item.name }}</a></p>
     {% endfor %}
   </div>
-</div>
+<!-- </div> -->
 
 <div class="row g-5 mb-5">
-  <div>
+  <div class="col-md-4">
     <h6 class="fw-bold border-bottom pb-3 mb-1">Things I Use for Teaching</h6>
    {% for item in site.data.resources.teaching_resources %}
       <p><a href="{{ item.url }}">{{ item.name }}</a></p>
