@@ -13,7 +13,7 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div>
-    <h6 class="fw-bold border-bottom pb-3 mb-2">Undergraduate Courses</h6>
+    <h6 class="fw-bold border-bottom pb-3 mb-1">Undergraduate Courses</h6>
     {% for course_undergraduate in site.data.settings.courses_undergraduate %}
       <p><a href="{{ site.github.url }}/courses/{{ course_undergraduate.url}}">{{ course_undergraduate.name }}</a></p>
     {% endfor %}
@@ -22,7 +22,7 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div>
-    <h6 class="fw-bold border-bottom pb-3 mb-2">Graduate Courses</h6>
+    <h6 class="fw-bold border-bottom pb-3 mb-1">Graduate Courses</h6>
     {% for course_graduate in site.data.settings.courses_graduate %}
       <p><a href="{{ site.github.url }}/courses/{{ course_graduate.url}}">{{ course_graduate.name }}</a></p>
     {% endfor %}
@@ -31,7 +31,7 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div>
-    <h6 class="fw-bold border-bottom pb-3 mb-2">Elsewhere</h6>
+    <h6 class="fw-bold border-bottom pb-3 mb-1">Elsewhere</h6>
     {% for course_elsewhere in site.data.settings.courses_elsewhere %}
       <p>{{ course_elsewhere.name }}, {{ course_elsewhere.institution }}</p>
     {% endfor %}
