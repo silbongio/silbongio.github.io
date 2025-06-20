@@ -43,6 +43,8 @@ title: "Spanish phonetics and phonology"
 
 ##### Sample assignments
 
-[Sample research proporsal](/courses/adv_phono/researchProposal.pdf)
+[Research proporsal](/courses/adv_phono/researchProposal.pdf)
+
+[Analysis of rhotics](/courses/adv_phono/Tarea_Vibrantes.pdf)
 
 <br>
