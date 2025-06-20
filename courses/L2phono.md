@@ -33,20 +33,13 @@ title: "Second language phonology"
 </ul> </p>
 <br>
 
-
-
-
-
-
-
-
-###### Sample Lecture Notes
+##### Sample Lecture Notes
 
 [Perceptual Assimilation Model -L2](/courses/L2phono/PAML2.pdf)
 
 <br>
 
-###### Sample Assignments
+##### Sample Assignments
 
 [Speech visualization assignment for rhotics](/courses/SPN330/Sample_speechVisualization.pdf)
 
