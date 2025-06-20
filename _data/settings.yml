@@ -14,7 +14,7 @@ courses_graduate:
 - {name: 'Spanish phonetics and phonology', url: 'grad_phono'}
 - {name: 'Second language phonology', url: 'L2phono'}
 
-course_elsewhere:
+courses_elsewhere:
 - {name: 'Introduction to Hispanic Linguistics', institution: 'Indiana University'}
 - {name: 'Conversation and Diction', institution: 'Indiana University'}
 - {name: 'Conversation and Composition', institution: 'Indiana University'}
