@@ -37,6 +37,8 @@ title: "Spanish phonetics and phonology"
 
 [Introductory lecture to OT](/courses/grad_phono/OT.pdf)
 
+[Bibliographical search workshop for MA students](/courses/grad_phono/BusquedasBibliograficas.pdf)
+
 <br>
 
 ##### Sample assignments
