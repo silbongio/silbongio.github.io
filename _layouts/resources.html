@@ -12,7 +12,7 @@ layout: default
 <div class="row g-5 mb-5">
   <div>
     <h6 class="fw-bold border-bottom pb-3 mb-5">Some resouces I use in my research</h6>
-    {% for research_resources in site.data.resources.research_resources %}
+    {% for item in site.data.resources.research_resources %}
       <p><a href="{{ item.url }}">{{ item.name }}</a></p>
     {% endfor %}
   </div>
@@ -21,7 +21,7 @@ layout: default
 <div class="row g-5 mb-5">
   <div>
     <h6 class="fw-bold border-bottom pb-3 mb-5">Some resources I use in my teaching</h6>
-   {% for teaching_resources in site.data.resources.teaching_resources %}
+   {% for item in site.data.resources.teaching_resources %}
       <p><a href="{{ item.url }}">{{ item.name }}</a></p>
     {% endfor %}
   </div>
