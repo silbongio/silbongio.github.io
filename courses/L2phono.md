@@ -38,9 +38,3 @@ title: "Second language phonology"
 [Introductory Lecture on PAM and PAM-L2](/courses/L2phono/PAML2.pdf)
 
 <br>
-
-##### Sample Assignments
-
-[Speech visualization assignment for rhotics](/courses/SPN330/Sample_speechVisualization.pdf)
-
-[Recording assignment for /b d g/](/courses/SPN330/grabacion_bdg.pdf)
