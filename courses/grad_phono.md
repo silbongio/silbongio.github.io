@@ -33,13 +33,13 @@ title: "Spanish phonetics and phonology"
 </ul></p>
 <br>
 
-#### Sample lecture notes
+##### Sample lecture notes
 
 [Introductory lecture to OT](/courses/grad_phono/OT.pdf)
 
 <br>
 
-#### Sample assignments
+##### Sample assignments
 
 [Sample research proporsal](/courses/adv_phono/researchProposal.pdf)
 
