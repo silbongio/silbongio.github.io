@@ -1,19 +1,19 @@
 research_resources:
-- {name: 'NIM', url: 'https://psico.fcep.urv.cat/utilitats/nim/index.php'}
-- {name: 'jsPsych', url: 'https://www.jspsych.org/latest/'}
-- {name: 'Praat', url: 'https://www.praat.org'}
-- {name: 'gitLab', 'url': 'https://gitlab.com/'}
+- {name: 'NIM', url: 'https://psico.fcep.urv.cat/utilitats/nim/index.php', descrip: 'Search engine for psycholinguistic research materials'}
+- {name: 'jsPsych', url: 'https://www.jspsych.org/latest/', descrip: 'JavaScript framework for creating behavioral experiments that run in a web browser'}
+- {name: 'Praat', url: 'https://www.praat.org', descrip: 'Open-source software used for analysis and synthesis of speech'}
+- {name: 'gitLab', 'url': 'https://gitlab.com/', descrip: 'Web-based platform for managing Git repositories'}
 
 teaching_resources:
-- {name: 'Audio Lingua', url: 'https://audio-lingua.ac-versailles.fr/spip.php?rubrique4&lang=en'}
-- {name: 'Voices of the Hispanic World', url: 'https://dialectos.osu.edu/'}
-- {name: 'Biblioteca Digital de Voces Hispanas', url: 'https://classapps.chass.ncsu.edu/fls333/'}
+- {name: 'Audio Lingua', url: 'https://audio-lingua.ac-versailles.fr/spip.php?rubrique4&lang=en', descrip: 'Free, collaborative collection of authentic audio recordings in several languages'}
+- {name: 'Voices of the Hispanic World', url: 'https://dialectos.osu.edu/', descrip: 'Archive of dialectally varied, spoken language data from throughout the Spanish-speaking world'}
+- {name: 'Biblioteca Digital de Voces Hispanas', url: 'https://classapps.chass.ncsu.edu/fls333/', descrip: 'Example audio from native Spanish speakers in the NC State University community'}
 
 recommend_resources:
-- {name: 'A practical introduction to Git and GitHub', url: 'https://github.com/jvcasillas/github_workshop/'}
-- {name: 'R for linguists', url: 'http://eleanorchodroff.com/r-for-linguists/'}
-- {name: 'Introduction to Data Analysis with R', url: 'https://betsysneller.github.io/RCourse/RCourse.html'}
+- {name: 'A practical introduction to Git and GitHub', url: 'https://github.com/jvcasillas/github_workshop/', descrip: 'Materials for J. Casilla's workshop on Git and GitHub for version control'}
+- {name: 'R for linguists', url: 'http://eleanorchodroff.com/r-for-linguists/', descrip: 'E. Chodroff's tutorial on R for Linguists '}
+- {name: 'Introduction to Data Analysis with R', url: 'https://betsysneller.github.io/RCourse/RCourse.html', descrip: 'B. Sneller's mini-R course aimed at people who are new to programming'}
 
 other_resources:
-- {name: 'JATOS', url: 'https://www.jatos.org/'}
-- {name: 'Make Praat Picture-style plots of acoustic data in R', url: 'https://rpuggaardrode.github.io/praatpicture_manual/'}
+- {name: 'JATOS', url: 'https://www.jatos.org/', descrip: 'Just Another Tool for Online Studies'}
+- {name: 'Make Praat Picture-style plots of acoustic data in R', url: 'https://rpuggaardrode.github.io/praatpicture_manual/', descrip: 'Quickly and easily generates plots of acoustic data directly in R'}
