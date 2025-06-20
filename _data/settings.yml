@@ -14,10 +14,14 @@ courses_graduate:
 - {name: 'Spanish phonetics and phonology', url: 'grad_phono'}
 - {name: 'Second language phonology', url: 'L2phono'}
 
+course_elsewhere:
+- {name: 'Introduction to Hispanic Linguistics', institution: 'Indiana University'}
+- {name: 'Conversation and Diction', institution: 'Indiana University'}
+- {name: 'Conversation and Composition', institution: 'Indiana University'}
+
 social:
 - {icon: 'github', link: 'https://github.com/silbongio'}
 - {icon: 'orcid', link: 'https://orcid.org/0000-0002-5085-3488'}
-
 
 contacts:
 - {name: 'Silvina Bongiovanni', title: 'Associate Professor', department: 'Dept. of Romance and Classical Studies', institution: 'Michigan State University', institution_address: '619 Red Cedar Road', institution_citystate: 'East Lansing, MI 48823', email: 'sbongio AT msu DOT edu', office: 'Wells Hall 369', image: 'assets/img/contact.jpg'}
