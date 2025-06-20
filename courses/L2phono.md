@@ -35,7 +35,7 @@ title: "Second language phonology"
 
 ##### Sample Lecture Notes
 
-[Perceptual Assimilation Model -L2](/courses/L2phono/PAML2.pdf)
+[Introductory Lecture on PAM and PAM-L2](/courses/L2phono/PAML2.pdf)
 
 <br>
 
