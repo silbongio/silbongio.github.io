@@ -13,7 +13,7 @@ layout: default
   <div>
     <h6 class="fw-bold border-bottom pb-3 mb-1">Go-To Research Tools</h6>
    {% for item in site.data.resources.research_resources %}
-      <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+      <p><a href="{{ item.url }}">{{ item.name }}</a>: {{ item.descrip }}</p> 
     {% endfor %}
   </div>
 </div>
@@ -22,7 +22,7 @@ layout: default
   <div>
     <h6 class="fw-bold border-bottom pb-3 mb-1">Things I Use for Teaching</h6>
    {% for item in site.data.resources.teaching_resources %}
-      <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+      <p><a href="{{ item.url }}">{{ item.name }}</a><: {{ item.descrip }}/p>
     {% endfor %}
   </div>
 </div>
@@ -31,7 +31,7 @@ layout: default
   <div>
     <h6 class="fw-bold border-bottom pb-3 mb-1">Stuff I’m Curious About (But Haven’t Tried Yet)</h6>
    {% for item in site.data.resources.other_resources %}
-      <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+      <p><a href="{{ item.url }}">{{ item.name }}</a>: {{ item.descrip }}</p>
     {% endfor %}
   </div>
 </div>
@@ -40,7 +40,7 @@ layout: default
   <div>
     <h6 class="fw-bold border-bottom pb-3 mb-1">Links I Keep Sending My Students</h6>
    {% for item in site.data.resources.recommend_resources %}
-      <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+      <p><a href="{{ item.url }}">{{ item.name }}</a>: {{ item.descrip }}</p>
     {% endfor %}
   </div>
 </div>
