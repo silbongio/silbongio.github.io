@@ -1,8 +1,8 @@
 research_resources:
 - {name: 'NIM', url: 'https://psico.fcep.urv.cat/utilitats/nim/index.php'}
-- {name: 'A practical introduction to Git and GitHub', url: 'https://github.com/jvcasillas/github_workshop/'}
 - {name: 'jsPsych', url: 'https://www.jspsych.org/latest/'}
 - {name: 'Praat', url: 'https://www.praat.org'}
+- {name: 'gitLab', 'url': 'https://gitlab.com/'}
 
 teaching_resources:
 - {name: 'Audio Lingua', url: 'https://audio-lingua.ac-versailles.fr/spip.php?rubrique4&lang=en'}
@@ -10,6 +10,7 @@ teaching_resources:
 - {name: 'Biblioteca Digital de Voces Hispanas', url: 'https://classapps.chass.ncsu.edu/fls333/'}
 
 recommend_resources:
+- {name: 'A practical introduction to Git and GitHub', url: 'https://github.com/jvcasillas/github_workshop/'}
 - {name: 'R for linguists', url: 'http://eleanorchodroff.com/r-for-linguists/'}
 - {name: 'Introduction to Data Analysis with R', url: 'https://betsysneller.github.io/RCourse/RCourse.html'}
 
