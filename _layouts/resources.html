@@ -11,7 +11,7 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div>
-    <h6 class="fw-bold border-bottom pb-3 mb-5">Some resouces I use in my research</h6>
+    <h6 class="fw-bold border-bottom pb-3 mb-5">Go-To Research Tools</h6>
     {% for item in site.data.resources.research_resources %}
       <p><a href="{{ item.url }}">{{ item.name }}</a></p>
     {% endfor %}
@@ -20,8 +20,17 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div>
-    <h6 class="fw-bold border-bottom pb-3 mb-5">Some resources I use in my teaching</h6>
+    <h6 class="fw-bold border-bottom pb-3 mb-5">Things I Use for Teaching</h6>
    {% for item in site.data.resources.teaching_resources %}
+      <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="row g-5 mb-5">
+  <div>
+    <h6 class="fw-bold border-bottom pb-3 mb-5">Things I’m Curious About (But Haven’t Tried Yet)</h6>
+   {% for item in site.data.resources.other_resources %}
       <p><a href="{{ item.url }}">{{ item.name }}</a></p>
     {% endfor %}
   </div>
