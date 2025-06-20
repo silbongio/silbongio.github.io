@@ -2,4 +2,3 @@ url: "http://silbongio.github.io" # the base hostname & protocol for your site, 
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Silvina Bongiovanni" # the name of your site, e.g. ACME Corp.
 description: ""
-google-analytics: G-6FH2DS9KY6
