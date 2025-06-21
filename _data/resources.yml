@@ -17,4 +17,3 @@ recommend_resources:
 other_resources:
 - {name: 'JATOS', url: 'https://www.jatos.org/', descrip: 'Just Another Tool for Online Studies'}
 - {name: 'Make Praat Picture-style plots of acoustic data in R', url: 'https://rpuggaardrode.github.io/praatpicture_manual/', descrip: 'Quickly and easily generates plots of acoustic data directly in R'}
-- {name: 'contributoR', url: 'https://www.jvcasillas.com/code/r_contributor/', descrip: 'Visualizes contributor roles'}
