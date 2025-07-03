@@ -1,5 +1,6 @@
 research_resources:
 - {name: 'NIM', url: 'https://psico.fcep.urv.cat/utilitats/nim/index.php', descrip: 'Search engine for psycholinguistic research materials'}
+- {name: 'Minimal Pair Finder', url: 'http://phonetictools.altervista.org/minimalpairfinder/', descrip: 'Works for Spanish, English, Italian and Greek'}
 - {name: 'jsPsych', url: 'https://www.jspsych.org/latest/', descrip: 'JavaScript framework for creating behavioral experiments that run in a web browser'}
 - {name: 'Praat', url: 'https://www.praat.org', descrip: 'Open-source software used for analysis and synthesis of speech'}
 - {name: 'gitLab', 'url': 'https://gitlab.com/', descrip: 'Web-based platform for managing Git repositories'}
