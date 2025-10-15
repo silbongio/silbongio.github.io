@@ -4,6 +4,8 @@ research_resources:
 - {name: 'jsPsych', url: 'https://www.jspsych.org/latest/', descrip: 'JavaScript framework for creating behavioral experiments that run in a web browser'}
 - {name: 'Praat', url: 'https://www.praat.org', descrip: 'Open-source software used for analysis and synthesis of speech'}
 - {name: 'gitLab', 'url': 'https://gitlab.com/', descrip: 'Web-based platform for managing Git repositories'}
+- {name: 'JATOS', url: 'https://www.jatos.org/', descrip: 'Just Another Tool for Online Studies'}
+- {name: 'MindProbe', url: 'https://mindprobe.eu', descrip: 'Free, publicly accessible server for hosting online psychological experiments'}
 
 teaching_resources:
 - {name: 'Audio Lingua', url: 'https://audio-lingua.ac-versailles.fr/spip.php?rubrique4&lang=en', descrip: 'Free, collaborative collection of authentic audio recordings in several languages'}
@@ -15,5 +17,4 @@ recommend_resources:
 - {name: 'Introduction to Data Analysis with R', url: 'https://betsysneller.github.io/RCourse/RCourse.html', descrip: 'Mini-R course aimed at people who are new to programming by B. Sneller'}
 
 other_resources:
-- {name: 'JATOS', url: 'https://www.jatos.org/', descrip: 'Just Another Tool for Online Studies'}
 - {name: 'Make Praat Picture-style plots of acoustic data in R', url: 'https://rpuggaardrode.github.io/praatpicture_manual/', descrip: 'Quickly and easily generates plots of acoustic data directly in R'}
