@@ -14,7 +14,7 @@ teaching_resources:
 - {name: 'Biblioteca Digital de Voces Hispanas', url: 'https://classapps.chass.ncsu.edu/fls333/', descrip: 'Example audio from native Spanish speakers in the NC State University community'}
 
 recommend_resources:
-- {name: 'Matt Winn's website', url: 'http://www.mattwinn.com/', descrip: 'Great teaching resources and Praat script collection'}
+- {name: 'Matt Winn`s website', url: 'http://www.mattwinn.com/', descrip: 'Great teaching resources and Praat script collection'}
 - {name: 'R for linguists', url: 'http://eleanorchodroff.com/r-for-linguists/', descrip: 'Tutorial on R for Linguists by E. Chodroff'}
 - {name: 'Introduction to Data Analysis with R', url: 'https://betsysneller.github.io/RCourse/RCourse.html', descrip: 'Mini-R course aimed at people who are new to programming by B. Sneller'}
 
