@@ -19,5 +19,6 @@ recommend_resources:
 - {name: 'Introduction to Data Analysis with R', url: 'https://betsysneller.github.io/RCourse/RCourse.html', descrip: 'Mini-R course aimed at people who are new to programming by B. Sneller'}
 
 other_resources:
+- {name: 'PraatGen', url: 'https://github.com/embodied-music-lab/PraatGen', descrip: 'A Claude AI project that writes syntactically correct Praat scripts from plain-language descriptions'}
 - {name: 'Make Praat Picture-style plots of acoustic data in R', url: 'https://rpuggaardrode.github.io/praatpicture_manual/', descrip: 'Quickly and easily generates plots of acoustic data directly in R'}
 
