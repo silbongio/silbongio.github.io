@@ -15,8 +15,10 @@ teaching_resources:
 
 recommend_resources:
 - {name: 'Matt Winn`s website', url: 'http://www.mattwinn.com/', descrip: 'Great teaching resources and Praat script collection'}
+- {name: 'Lingusitics Methods Hub', url: 'https://lingmethodshub.github.io', descrip: 'A coherent and searchable source for linguistics quantitative methods'}
 - {name: 'R for linguists', url: 'http://eleanorchodroff.com/r-for-linguists/', descrip: 'Tutorial on R for Linguists by E. Chodroff'}
 - {name: 'Introduction to Data Analysis with R', url: 'https://betsysneller.github.io/RCourse/RCourse.html', descrip: 'Mini-R course aimed at people who are new to programming by B. Sneller'}
+
 
 other_resources:
 - {name: 'PraatGen', url: 'https://github.com/embodied-music-lab/PraatGen', descrip: 'A Claude AI project that writes syntactically correct Praat scripts from plain-language descriptions'}
