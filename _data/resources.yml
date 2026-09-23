@@ -21,6 +21,6 @@ recommend_resources:
 
 
 other_resources:
+- {name: 'Nosey', url: 'https://github.com/phoneticslab/nosey', descrip: 'An open-source hardware platform for collecting acoustic nasalance data'}
 - {name: 'PraatGen', url: 'https://github.com/embodied-music-lab/PraatGen', descrip: 'A Claude AI project that writes syntactically correct Praat scripts from plain-language descriptions'}
 - {name: 'Make Praat Picture-style plots of acoustic data in R', url: 'https://rpuggaardrode.github.io/praatpicture_manual/', descrip: 'Quickly and easily generates plots of acoustic data directly in R'}
-
