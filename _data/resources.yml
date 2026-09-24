@@ -8,17 +8,20 @@ research_resources:
 - {name: 'JATOS', url: 'https://www.jatos.org/', descrip: 'Just Another Tool for Online Studies'}
 - {name: 'MindProbe', url: 'https://mindprobe.eu', descrip: 'Free, publicly accessible server for hosting online psychological experiments'}
 
+praat_scripts:
+- {name: 'Matt Winn', url: 'http://www.mattwinn.com/', descrip: 'Great teaching resources and Praat script collection'}
+- {name: 'Michelle Cohn', url: 'https://michelledcohn.com/praat-scripts-2/', descrip: 'Another great Praat script collection'}
+- {name: 'Cristian DiCanio', url: 'https://www.acsu.buffalo.edu/~cdicanio/scripts.html', descrip: 'Another great Praat script collection'}
+
 teaching_resources:
 - {name: 'Audio Lingua', url: 'https://audio-lingua.ac-versailles.fr/spip.php?rubrique4&lang=en', descrip: 'Free, collaborative collection of authentic audio recordings in several languages'}
 - {name: 'Voices of the Hispanic World', url: 'https://dialectos.osu.edu/', descrip: 'Archive of dialectally varied, spoken language data from throughout the Spanish-speaking world'}
 - {name: 'Biblioteca Digital de Voces Hispanas', url: 'https://classapps.chass.ncsu.edu/fls333/', descrip: 'Example audio from native Spanish speakers in the NC State University community'}
 
 recommend_resources:
-- {name: 'Matt Winn`s website', url: 'http://www.mattwinn.com/', descrip: 'Great teaching resources and Praat script collection'}
 - {name: 'Lingusitics Methods Hub', url: 'https://lingmethodshub.github.io', descrip: 'A coherent and searchable source for linguistics quantitative methods'}
 - {name: 'R for linguists', url: 'http://eleanorchodroff.com/r-for-linguists/', descrip: 'Tutorial on R for Linguists by E. Chodroff'}
 - {name: 'Introduction to Data Analysis with R', url: 'https://betsysneller.github.io/RCourse/RCourse.html', descrip: 'Mini-R course aimed at people who are new to programming by B. Sneller'}
-
 
 other_resources:
 - {name: 'Nosey', url: 'https://github.com/phoneticslab/nosey', descrip: 'An open-source hardware platform for collecting acoustic nasalance data'}
