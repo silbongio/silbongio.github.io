@@ -12,6 +12,7 @@ praat_scripts:
 - {name: 'Matt Winn', url: 'http://www.mattwinn.com/', descrip: 'Great teaching resources and Praat script collection'}
 - {name: 'Michelle Cohn', url: 'https://michelledcohn.com/praat-scripts-2/', descrip: 'Another great Praat script collection'}
 - {name: 'Cristian DiCanio', url: 'https://www.acsu.buffalo.edu/~cdicanio/scripts.html', descrip: 'Another great Praat script collection'}
+- {name: 'Jessamyn Schertz', url: 'https://individual.utoronto.ca/jschertz/scripts.shtml', descrip: 'Another great Praat script collection'}
 
 teaching_resources:
 - {name: 'Audio Lingua', url: 'https://audio-lingua.ac-versailles.fr/spip.php?rubrique4&lang=en', descrip: 'Free, collaborative collection of authentic audio recordings in several languages'}
